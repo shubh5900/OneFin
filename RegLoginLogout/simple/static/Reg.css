@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(165, 151, 182);
+}
+.RegText{
+    margin: 10px 80px 20px;
+}
+.RegBox{
+    padding: 0px 40px 0px 40px;
+    background-color: rgba(255, 255, 255, 0.321);
+}
+
+.Submit{
+    margin: 10px -10px 10px;
+    background-color: rgb(153, 127, 255);
+    width: 190px;
+    font-size: 20px;
+}

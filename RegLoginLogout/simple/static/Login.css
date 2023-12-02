@@ -1,0 +1,36 @@
+ body{
+    background-color: rgb(153, 119, 186);
+ }
+
+ .LoginBox{
+   background-color: rgb(120, 85, 152);
+   border-radius: 7px;
+   width: 400px;
+   margin-top: 100px;
+   padding-bottom: 20px;
+   color: aqua;
+  
+ }
+
+ .Succes{
+  background-color: Red;
+ }
+ .LogText{
+   margin: 10px 140px 20px;
+   
+ }
+
+ .Submit{
+   margin: 10px 70px 10px;
+   width: 200px;
+   font-size: 20px;
+ }
+
+ .Forget{
+   margin-top: 10px;
+ }
+
+ .RegLink{
+   margin-left: 40px;
+
+ }
